@@ -56,7 +56,8 @@ public class MinimumValueRecursive {
 
 ## Output:
 
-<img width="1919" height="560" alt="image" src="https://github.com/user-attachments/assets/2f4b9260-5be8-4db7-aa21-8715918cab23" />
+<img width="1334" height="434" alt="image" src="https://github.com/user-attachments/assets/3ac0aeb3-3958-44fc-8c51-8e8e05287c29" />
+
 
 
 ## Result:
